@@ -1,0 +1,100 @@
+﻿
+
+
+Terms of Reference
+TECHNICAL SPECIALIST – PROJECT EXECUTING UNIT
+Support to the “Implementation of Trinidad and Tobago’s Interoperability Platform, e- Identity Program and Government Data Center.
+Latin America and Caribbean Investment Facility (LACIF) CAF – EUROPEAN UNION DELEGATION
+
+    1. NAME OF THE CONTRACT: TECHNICAL SPECIALIST – PROJECT EXECUTING UNIT
+Technical Support to the “Implementation of Trinidad and Tobago’s Interoperability Platform, e-Identity Program and Government Data Center”.
+
+    2. ORGANIZATIONAL UNIT (OU): CAF´s Trinidad and Tobago Office
+    3. SELECTION MODALITY: Public Tender
+    4. BACKGROUND AND JUSTIFICATION
+CAF - development bank of Latin America and the Caribbean, is a multilateral financial institution whose mission is to promote sustainable development and regional integration. Its shareholders include Argentina, Antigua and Barbuda, Bahamas, Barbados, Bolivia, Brazil, Chile, Colombia, Costa Rica, Dominican Republic, Ecuador, El Salvador, Honduras, Jamaica, Mexico, Panama, Paraguay, Peru, Portugal, Spain, Trinidad and Tobago, Uruguay, Venezuela, and 13 private banks in the region.
+CAF designated as Executing Agency by the European Union is implementing the “Trinidad and Tobago’s Interoperability Platform, e-Identity Program and Government Data Centre.”
+This initiative under the European Union’s Latin America and Caribbean Investment Facility (LACIF), through a blended arrangement with the CAF valued at €3 million Euro, represents CAF’s inaugural project under the Global Gateway strategy in Trinidad and Tobago and a pivotal grant for the development of the Ministry of Public Administration and Artificial Intelligence initiatives.
+One of the objectives of the programme is to make full use of international best practices and particularly of the vast experience gathered in smaller EU Member States in the areas covered by this cooperation. EU Member States such as Denmark, Estonia, Sweden, the Netherlands and Finland, but also Latvia or Lithuania, are considered world leaders in e-governance, interoperability, e-identity and also in the use of open source software.1 They have demonstrated how relatively small countries
+
+
+1 Compare, for instance, the UN E-Government Development Index 2022 and 2024.
+
+can position themselves as world leaders in this domain. The ambition of this project is to support Trinidad and Tobago in positioning itself as a regional leader in this area.
+The project aims to modernize the country’s digital infrastructure, improve public service delivery, and strengthen cybersecurity measures.
+This funding will support the development of an electronic identity (e-ID), a public data interoperability platform, and the integration with a dedicated Tier-4 government data centre.
+Digital Transformation in Trinidad s Tobago
+The widespread adoption of digital infrastructure and technologies has been identified as a critical driver for achieving national development goals as articulated in National Development Plan of Trinidad and Tobago, for a “People-Centered Digital Future,” integrating digital access with economic justice, equal opportunity, and innovation-led job creation. These documents emphasize that the Government of the Republic of Trinidad s Tobago (GoRTT) considers ICT a key enabler of public sector transformation, productivity, and efficiency.
+GoRTT has identified three components as the backbone of its digital strategy—critical enablers for fostering innovation, driving entrepreneurship, and accelerating national development: (i) the electronic identity (e-ID) programme; (ii) the Government Interoperability Platform; and (iii) the Government Data Centre.
+A major challenge in developing end-to-end services across Ministries, Departments, and Agencies (MDAs) is the limited or no interoperability between systems, often reliant on manual or email transfer of files. Technical, security and legal concerns have prevented many MDAs from interconnecting their systems, resulting in siloed operations. GoRTT is committed to open standards, open-source adoption, and cost-effective digital government architecture.
+Two key policy decisions guide this initiative: (i) Government digital solutions should also be extended to the private sector where appropriate: and (ii) Trinidad and Tobago’s digital development should take into account the needs of neighbouring Caribbean countries, facilitating the sharing of knowledge and benefits derived from developing the Tier 4 Data Centre to inform regional digital transformation initiatives.
+The final implementation will result in a hybrid system integrating government-owned data centre infrastructure with selected cloud services, optimizing digital public service delivery and fostering support for public-private partnerships and digital industry development with a national cloud-first policy for ICT sector growth. This approach can also improve inclusion and gender equality, enabling better access to services for marginalized populations. For example, the e-ID, can enable discreet, personalized and secure authentication access to support services, including those relating to women facing gender-based violence.
+
+To support this, the European Commission and CAF have signed an agreement to assist the Government of the Republic of Trinidad and Tobago—through the Ministry of Public Administration and Artificial Intelligence (MPAAI) — in developing studies, pilots, and projects related to its interoperability platform, digital ID program, data centre expansion, and the mainstreaming gender equity and inclusion digital policy: ensuring digital services are accessible to women, youth, and persons with disabilities throughout the initiative.
+    5. OBJECTIVE OF THE CONSULTANCY
+The Technical Specialist of the Project Executing Unit will provide technical follow-up support, ensuring that procurement, contract oversight, reporting, and monitoring align with the project’s specific goals. Actions must comply with the budget and the regulations of CAF, the European Commission, and local laws.
+Specific Objectives:
+        1. Provide technical follow-up support and support the Executing Unit in project oversight to ensure successful implementation and timely reporting to CAF, the EU Delegation, the MPAAI, and relevant governance bodies.
+        2. In coordination with CAF, support procurement, sourcing, and contract supervision efforts to ensure efficient project execution and maximum value from external partners, while capitalizing on the opportunities provided by EU instruments, stakeholders and solutions; especially across the following components:
+            A. Electronic Identity (e-ID) Program Actions:
+                a. Support the conduct of workshops with key stakeholders, including but not limited to the MPAAI, the four ID providers and other MDAs, National-CSIRTs (i.e. certification support), and 2 to 3 private sector pilot agencies from Caribbean countries to define use cases, cross-border regulatory arrangements, integration and technical infrastructure, and pilot scaling mechanisms.
+                b. Support the development of software components and API integrations for the e- ID platform with embedded Gender, Inclusion, and Diversity (GsD) principles.
+                c. Assist in the planning and deployment of a pilot e-ID solution with MPAAI and select pilot countries.
+                d. Ensure that all e-ID programme activities take into account best practices, standards, and digital solutions from smaller EU Member States that have positioned themselves as world leaders in this area to maximize security, accessibility, and efficiency.
+
+            B. Interoperability Platform Actions:
+
+                a. Coordinate and host regional workshops with 2 to 3 Caribbean countries to develop a government-to-government interoperability platform.
+                b. Support the development of software components and API integrations for the regional interoperability network ensuring the public officer’s systems work together without manual hand-offs or data silos.
+                c. Assist with the planning and deployment of a pilot with MPAAI and regional agencies to support Interopability and e-ID integration.
+                d. Ensure that all interoperability activities are carried out in adherence to the best international practices, standards, and digital solutions, to maximize security, accessibility, and efficiency.
+
+            C. Data Centre Expansion Feasibility Actions:
+                a. Ensure strategies are designed for greener, inclusive operations, including metrics on emissions reduction and access to identity rights.
+                b. Procure and deploy a hybrid cloud solution supporting regional data sovereignty and cross-border services.
+                c. Support the conduct of workshops (approx. 5) to develop the data centre as a tech hub with sandboxes for open-source, Artificial Intelligence (AI), Machine Learning (ML), blockchain, and Internet of Things (IoT).
+                d. Support the conduct of workshops (approx. 2) to promote data centre use among MDAs.
+                e. Support the conduct of a workshop to promote the responsible, secure, ethical and compliant use of the infrastructure by authorized third parties.
+                f. Ensure that all data management activities take into account international best practices, standards, and digital solutions, to maximize security, accessibility, and efficiency.
+
+            D. Cross-cutting Gender and Diversity Component: Recommend incorporating gender and diversity considerations into the project's social and legal/ethical aspects, including non-disclosure agreements (NDAs) and sensitive information protocols.
+
+    6. SERVICES TO BE CARRIED OUT
+        1. 	Support building strategic relationships with MPAAI, CAF, the EU, government stakeholders, civil society, and the private sector to enhance collaboration and impact. Identify cost-saving opportunities through market solution analyses for each project component. Incorporate
+
+effective integration of Gender, Inclusion and Diversity considerations across project activities.
+        2. Support oversight and monitoring of all project components.
+        3. Support effective contract management, document control, and tracking of contract milestones.
+        4. Collaborate closely with the MPAAI, the EU and CAF to ensure adequate vendor contracts and Memorandums of Understandings (MOUs) are in place.
+        5. Develop strategies to engage Caribbean and international stakeholders, particularly from smaller countries that represent international best practice and that align with the project's objectives, fostering partnerships that facilitate knowledge exchange, private sector engagement, and business opportunities, leveraging of EU expertise and innovation to enhance project outcomes.
+        6. Actively seek and evaluate international solutions, technologies, and best practices that can be incorporated into the various project components. This involves collaborating with partners to tailor these solutions to the local context, integrating them into project workflows wherever feasible to ensure project efficiency and effectiveness.
+        7. Advise the Executing Unit Coordinator on technical matters and consult on decisions involving local stakeholders, CAF, EU, and national entities.
+        8. Identify and resolve supplier issues.
+6. Support the development of implementation plans, deliverable tracking, and technical work plans, including the identification of appropriate KPIs to monitor progress and ensure project success.
+    10. Support Monitoring and Evaluation (MsE) activities, including reporting achievements and success stories to CAF, the EU, and project governance bodies.
+    11. Assist in communications required by the EU, MPAAI, or CAF.
+    12. Support delivery of all services mentioned above are delivered in accordance with the relevant international standards and best practices.
+    7. PRODUCTS
+    • Product 1: Inception Report and Service Plan
+
+Submission of a detailed work plan and methodology for the consultancy, including timelines, roles, and proposed stakeholder engagement approach. To be delivered within the first four weeks of the consultancy.
+    • Product 2: Technical Progress Analysis 1
+Detailed technical analysis of progress across the three components—Electronic Identity (e-ID) Program, Interoperability Platform, and Data Centre Expansion. This report should include achievements, challenges, mitigation actions, technical indicators, identified risk analysis, and upcoming activities.
+    • Product 3: Workshop Reports
+Documentation and synthesis of outcomes from workshops held under each component, including stakeholder inputs, key findings, and implications for implementation.
+    • Product 4: Partial Implementation Report
+Report of implementation progress across the three components, emphasizing partial results achieved, lessons learned to date, required strategy adjustments, specific technical optimization recommendations and policy recommendations.
+    • Product 5: Pilot Implementation Plans
+Detailed implementation plans for pilot actions under each component, including objectives, scope, timeline, technical approach, resource requirements, and success indicators.
+    • Product 6: Final Project Report
+A comprehensive report summarizing the overall results of the three components, highlighting lessons learned, implementation outcomes, stakeholder feedback, and strategic recommendations to improve sustainability and scalability of the initiatives.
+
+    8. PLACE AND TIME OF SERVICE PROVISION
+
+The service will be provided remotely, using the consultant's own resources. The consultant will have access to both MPA-AI and CAF to facilitate contract coordination.
+
+Place of contracting: Trinidad and Tobago
+
+The consultancy service will have an execution period of one (1) year, counted from the date of signing the contract.
+
+
